@@ -6,7 +6,7 @@ mod 'apache',
   :git => 'https://github.com/ottagit/puppet-apache.git'
 
 mod 'base',
-  :git => 'https://github.com/ottagit/puppet-base'
+  :git => 'https://github.com/ottagit/puppet-base.git'
 
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
